@@ -1,4 +1,7 @@
 Saxon Function Extension Template
 =================================
 
-TODO: automate plugin of build to oxygen
+A template to add an XPath function extension to Saxon 9.6.
+
+Additional files related to supporting the extension in Oxygen are included.
+
