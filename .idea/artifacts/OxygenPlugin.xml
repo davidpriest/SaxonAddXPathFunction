@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="OxygenPlugin">
+    <output-path>$USER_HOME$/devtools/oxygen-config/</output-path>
+    <root id="root">
+      <element id="directory" name="SaxonFunction">
+        <element id="artifact" artifact-name="Artifacts" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/resources/oxygen.transformation.test.scenario.xml" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/resources/sample.xml" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/resources/saxonPE.config.testmyfunc.xml" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/resources/TestMyFunction.xsl" />
+      </element>
+    </root>
+  </artifact>
+</component>
